@@ -10,5 +10,9 @@ O material reúne funções DAX organizadas por categorias, dicas de visualizaç
 
 🚀 **Objetivo:** consolidar aprendizado e compartilhar conhecimento com outros estudantes.
 
-📄 **Arquivo completo:(./files/📘 Baixar PDF](./files/Mini_Dicionario_DAX.pdf)
+📄 **Arquivo do dicionário (acima):**  
+O PDF do *Mini Dicionário DAX & Visualização* está neste repositório. Abra/baixe diretamente clicando no botão:
+
+[![Baixar PDF](https://img.shields.io/badge/Baixar-PDF-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://raw.githubusercontent.com/Kcode1234/Mini-dicionario-DAX/main/Mini%20Dicion%C3%A1rio%20DAX%20%26%20Visualiza%C3%A7%C3%A3o%20no%20Power%20BI.pdf)
+
 
