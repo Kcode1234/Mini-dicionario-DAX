@@ -10,5 +10,5 @@ O material reúne funções DAX organizadas por categorias, dicas de visualizaç
 
 🚀 **Objetivo:** consolidar aprendizado e compartilhar conhecimento com outros estudantes.
 
-📄 **Arquivo completo:[📘 Baixar PDF](./files/Mini_Dicionario_DAX.pdf)
+📄 **Arquivo completo:(./files/📘 Baixar PDF](./files/Mini_Dicionario_DAX.pdf)
 
