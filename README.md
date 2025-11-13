@@ -10,4 +10,5 @@ O material reúne funções DAX organizadas por categorias, dicas de visualizaç
 
 🚀 **Objetivo:** consolidar aprendizado e compartilhar conhecimento com outros estudantes.
 
-📄 **Arquivo completo:** file:///C:/Users/User/Downloads/Mini%20Dicion%C3%A1rio%20DAX%20&%20Visualiza%C3%A7%C3%A3o%20no%20Power%20BI.pdf
+📄 **Arquivo completo:[📘 Baixar PDF](./files/Mini_Dicionario_DAX.pdf)
+
